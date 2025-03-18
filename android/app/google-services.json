@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058018157692",
+    "project_id": "tods-app",
+    "storage_bucket": "tods-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058018157692:android:7ec8f70e3db772ab4155f9",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3SQScDXLkmXlnZxc8UGIsjQD3TGDp1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
